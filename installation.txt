@@ -1,0 +1,5 @@
+
+ADMIN LOGIN DETAILS
+URL: localhost/online_voting/admin
+USER NAME: 1509234@rgu.ac.uk
+PASSWORD: obasi
