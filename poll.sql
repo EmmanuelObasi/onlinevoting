@@ -78,7 +78,7 @@ INSERT INTO `tbcandidates` (`candidate_id`, `candidate_name`, `candidate_positio
 (50, 'Mustapha Haji', 'Vice-President-(Sport)', 0),
 (51, 'Williams Karlson', 'Vice-President-(Sport)', 0);
 
--- --------------------------------------------------------
+-- ------------------------------------------------------
 
 --
 -- Table structure for table `tbmembers`
