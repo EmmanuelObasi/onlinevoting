@@ -60,7 +60,7 @@ $sql = mysql_query( "INSERT INTO tbPositions(position_name) VALUES ('$newPositio
 <div id="page">
 <div id="header">
   <h1>MANAGE POSITIONS</h1>
-  <a href="admin.php">Home</a> | <a href="manage-admins.php">Manage Administrators</a> | <a href="positions.php">Manage Positions</a> | <a href="candidates.php">Manage Candidates</a> | <a href="refresh.php">Poll Results</a> | <a href="View.php">View Voters</a>  | <a href="logout.php">Logout</a>
+  <a href="admin.php">Home</a> | <a href="manage-admins.php">Manage Administrators</a> | <a href="positions.php">Manage Positions</a> | <a href="candidates.php">Manage Candidates</a> | <a href="refresh.php">Poll Results</a> | <a href="View.php">View Users</a>  | <a href="logout.php">Logout</a>
 </div>
 <div id="container">
 <table width="380" align="center">

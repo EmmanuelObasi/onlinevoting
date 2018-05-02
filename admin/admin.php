@@ -14,7 +14,7 @@ if(empty($_SESSION['admin_id'])){
 <div id="page">
 <div id="header">
 <h1>ADMINISTRATION CONTROL PANEL </h1>
-<a href="admin.php">Home</a> | <a href="manage-admins.php">Manage Administrators</a> | <a href="positions.php">Manage Positions</a> | <a href="candidates.php">Manage Candidates</a> | <a href="refresh.php">Poll Results</a> | <a href="View.php">View Voters</a> | <a href="logout.php">Logout</a>
+<a href="admin.php">Home</a> | <a href="manage-admins.php">Manage Administrators</a> | <a href="positions.php">Manage Positions</a> | <a href="candidates.php">Manage Candidates</a> | <a href="refresh.php">Poll Results</a> | <a href="View.php">View Users</a> | <a href="logout.php">Logout</a>
 </div>
 <p align="center">&nbsp;</p>
 <div id="container">
